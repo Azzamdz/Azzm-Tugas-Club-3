@@ -118,7 +118,7 @@ h1 {
   flex-direction: column;
   justify-content: space-between;
   padding-right: 2rem;
-  border-bottom: white 0.063rem solid;
+  
   gap: 2rem;
   p {
       width: 100%;
